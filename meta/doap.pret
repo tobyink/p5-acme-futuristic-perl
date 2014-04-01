@@ -1,0 +1,19 @@
+# This file contains general metadata about the project.
+
+@prefix : <http://usefulinc.com/ns/doap#>.
+
+`Acme-Futuristic-Perl`
+	:programming-language "Perl" ;
+	:shortdesc            "because Modern::Perl is too old";
+	:homepage             <https://metacpan.org/release/Acme-Futuristic-Perl>;
+	:download-page        <https://metacpan.org/release/Acme-Futuristic-Perl>;
+	:bug-database         <http://rt.cpan.org/Dist/Display.html?Queue=Acme-Futuristic-Perl>;
+#	:repository           [ a :GitRepository; :browse <https://github.com/tobyink/p5-acme-futuristic-perl> ];
+	:created              2014-04-01;
+	:license              <http://dev.perl.org/licenses/>;
+	:maintainer           cpan:TOBYINK;
+	:developer            cpan:TOBYINK.
+
+<http://dev.perl.org/licenses/>
+	dc:title  "the same terms as the perl 5 programming language system itself".
+
