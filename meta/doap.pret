@@ -8,7 +8,7 @@
 	:homepage             <https://metacpan.org/release/Acme-Futuristic-Perl>;
 	:download-page        <https://metacpan.org/release/Acme-Futuristic-Perl>;
 	:bug-database         <http://rt.cpan.org/Dist/Display.html?Queue=Acme-Futuristic-Perl>;
-#	:repository           [ a :GitRepository; :browse <https://github.com/tobyink/p5-acme-futuristic-perl> ];
+	:repository           [ a :GitRepository; :browse <https://github.com/tobyink/p5-acme-futuristic-perl> ];
 	:created              2014-04-01;
 	:license              <http://dev.perl.org/licenses/>;
 	:maintainer           cpan:TOBYINK;
